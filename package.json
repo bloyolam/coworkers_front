@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "datatables.net": "^2.1.8",
+    "datatables.net-bs5": "^2.1.8",
+    "datatables.net-plugins": "^2.1.7",
+    "datatables.net-rowgroup": "^1.5.0",
+    "moment": "^2.30.1",
+    "sweetalert2": "^11.14.4",
+    "tippy.js": "^6.3.7",
+    "tom-select": "^2.3.1"
+  }
+}
